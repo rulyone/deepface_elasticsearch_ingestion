@@ -1,0 +1,47 @@
+{
+    "Allende": [
+        "data/allende_1.jpg",
+        "data/allende_2.jpeg",
+        "data/allende_3.webp"
+    ],
+    "Aylwin": [
+        "data/aylwin_1.jpg",
+        "data/aylwin_2.jpg",
+        "data/aylwin_3.jpg",
+        "data/aylwin_4.jpg"
+    ],
+    "Bachelet": [
+        "data/bachelet_1.png",
+        "data/bachelet_2.jpg"
+    ],
+    "Boric": [
+        "data/boric_1.jpg",
+        "data/boric_2.jpg"
+    ],
+    "Frei Montalva": [
+        "data/freimontalva_1.jpg",
+        "data/freimontalva_2.jpg"
+    ],
+    "Frei Ruiz-Tagle": [
+        "data/freiruiztagle_1.jpeg",
+        "data/freiruiztagle_2.jpeg",
+        "data/freiruiztagle_3.jpeg"
+    ],
+    "Kast": [
+        "data/kast_0.jpeg"
+    ],
+    "Lagos": [
+        "data/lagos_1.jpeg",
+        "data/lagos_2.jpeg",
+        "data/lagos_3.jpg"
+    ],
+    "Pi\u00f1era": [
+        "data/pinera_1.jpg",
+        "data/pinera_2.jpg",
+        "data/pinera_3.jpg"
+    ],
+    "Pinochet": [
+        "data/pinochet_1.jpg",
+        "data/pinochet_2.jpg"
+    ]
+}
