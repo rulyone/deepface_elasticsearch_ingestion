@@ -21,8 +21,8 @@ The main idea is to (1) extract the faces from every image, (2) analyse the face
 
 ## Install
 ```
-git clone this
-cd this
+git clone https://github.com/rulyone/deepface_elasticsearch_ingestion
+cd deepface_elasticsearch_ingestion
 python -m venv venv
 source venv/bin/activate
 pip install elasticsearch
@@ -31,6 +31,7 @@ pip install deepface
 
 ## Run
 ```
+source venv/bin/activate
 docker-compose up
 python ingest_client.py
 ```
